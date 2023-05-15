@@ -1,0 +1,23 @@
+{
+  "name": "battleship2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.2",
+    "css-loader": "^6.7.1",
+    "jest": "^28.1.1",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "vue-loader": "^17.0.0"
+  }
+}
